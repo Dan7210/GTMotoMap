@@ -1,12 +1,8 @@
-# React + Vite
+# GT Motorcycle Parking Map
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a pretty simple Vite + ReactJS project which uses OpenLayers to render an OpenStreetMap basemap and display various colored circles around the Georgia Tech campus. These circles correspond to motorcycle parking spaces around campus, and their various states. This is important to the GT motorcycle community due to the current haphazard state of motorcycle parking.
 
-Currently, two official plugins are available:
+It is hosted here: https://dan7210.github.io/GTMotoMap/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## New spot form
+If a new spot is discovered or is missing from the map, users can report it by clicking on the form button on the website (https://forms.gle/HrDA1DpbJmrSu6mx5).
