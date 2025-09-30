@@ -26,7 +26,7 @@ export default function MapApp() {
 
   useEffect(() => {
     // Load positions from JSON file
-    fetch('/positions.json')
+    fetch('/GTMotoMap/positions.json')
       .then((res) => res.json())
       .then((data) => setPositions(data))
       .catch((err) => console.error('Error loading positions:', err));

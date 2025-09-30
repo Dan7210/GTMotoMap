@@ -1,7 +1,7 @@
 import './Header.css';
 
 export default function Header() {
-    const toolbarIcon = "/Icon128.png"
+    const toolbarIcon = "/GTMotoMap/Icon128.png"
 
     return (
         <header className="header">
