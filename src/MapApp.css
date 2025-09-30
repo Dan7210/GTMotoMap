@@ -1,0 +1,13 @@
+.custom-mouse-position {
+  background-color: rgba(128, 128, 128, 0.8); /* grey with some transparency */
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+  max-height: 20px;
+  max-width: 120px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
