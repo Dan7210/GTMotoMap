@@ -24,5 +24,6 @@
   { "lat": 33.7805, "lon": -84.4022, "comment": "Center Street Parking", "color": "blue" },
   { "lat": 33.7788, "lon": -84.4052, "comment": "Curran St Deck", "color": "yellow" },
   { "lat": 33.7774, "lon": -84.3992, "comment": "Howey Physics Parking", "color": "green" },
-  { "lat": 33.7756, "lon": -84.3940, "comment": "Peters Parking Deck", "color": "green" }
+  { "lat": 33.7756, "lon": -84.3940, "comment": "Peters Parking Deck", "color": "green" },
+  { "lat": 33.7824, "lon": -84.3966, "comment": "GLC Family Housing", "color": "green" }
 ]
